@@ -1,3 +1,4 @@
+//author Hardik Srivastava (oddlyspaced)
 #include<stdio.h>
 #include<math.h>
 void main() {
