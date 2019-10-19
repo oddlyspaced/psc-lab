@@ -1,3 +1,4 @@
+// author - Amogh Biju (gamefreakoneone)
 #include<stdio.h>
 
 int main()

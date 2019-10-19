@@ -1,5 +1,5 @@
+// author - Shreeyans Bahadkar (BallisticSwami)
 #include<stdio.h>
-
 void main()
 {
     int i,j,ctr=1;
