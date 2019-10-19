@@ -1,6 +1,6 @@
 //author Manavendra Sen (manavendrasen)
 //Program to print the following pattern
-//********
+//*******
 // *****
 //  ***
 //   *
