@@ -1,3 +1,4 @@
+//author Hardik Srivastava (oddlyspaced)
 // Program to print the following pattern
 // 123454321
 //  1234321
