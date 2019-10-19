@@ -1,3 +1,4 @@
+//author Hardik Srivastava (oddlyspaced)
 #include<stdio.h>
 void main() {
     //. Write a menu driven program for banking to deposit amount, withdraw amounts, computes the interest and compute the balance based on the user inputs. [Assume interest rate and initial amount by yourself]
