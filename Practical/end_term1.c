@@ -1,3 +1,21 @@
+// author - Hardik Srivastava (oddlyspaced)
+/*
+You're working for cyber security team of Manipal software company ....
+
+You need to create a menu driven software to perform the following operations:
+
+1- Enter any message
+2- Encrypt the message
+3- Decrypt the message
+4- Show the message
+5- Exit
+
+Encrypt the message by incrementing each character by 5 values. i.e. a » f 
+
+If user inputs decryption without encrypting first then display an error "Encrypt first"
+
+Use functions
+*/ 
 #include<stdio.h>
 #include<string.h>
 void encrypt(char*);
